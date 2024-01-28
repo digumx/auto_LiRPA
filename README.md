@@ -236,3 +236,5 @@ Past developers:
 We thank the [commits](https://github.com/Verified-Intelligence/auto_LiRPA/commits) and [pull requests](https://github.com/Verified-Intelligence/auto_LiRPA/pulls) from community contributors.
 
 Our library is released under the BSD 3-Clause license.
+
+This is a fork for our work.
